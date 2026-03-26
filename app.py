@@ -1,7 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Movie Recommender", layout="wide")
+st.set_page_config(
+    page_title="Movie Recommender",
+    layout="wide"
+)
 
 @st.cache_data
 def load_data():
@@ -11,7 +14,6 @@ movies = load_data()
 
 st.title("🎬 Movie Recommendation System")
 st.caption("Discover movies based on your preferences")
-
 st.divider()
 
 st.sidebar.title("🔍 Filter Movies")
@@ -24,9 +26,9 @@ with st.sidebar.expander("Search & Filter", expanded=True):
         ["All"] + sorted(movies["genre"].unique())
     )
 
-    platform = st.multiselect(
-        "Streaming Platform",
-        sorted(movies["platform"].unique())
+    language = st.selectbox(
+        "Language",
+        ["All"] + sorted(movies["language"].dropna().unique())
     )
 
     year = st.slider(
@@ -50,22 +52,25 @@ sort_option = st.sidebar.radio(
 
 top_n = st.sidebar.slider(
     "Number of movies to display",
-    4, 150, 20
+    4, 40, 20
 )
 
 filtered = movies.copy()
+
 
 if search:
     filtered = filtered[
         filtered["title"].str.contains(search, case=False)
     ]
 
+
 if genre != "All":
     filtered = filtered[filtered["genre"] == genre]
 
-if platform:
-    filtered = filtered[filtered["platform"].isin(platform)]
+if language != "All":
+    filtered = filtered[filtered["language"] == language]
 
+# Year + Rating filter
 filtered = filtered[
     (filtered["year"] >= year) &
     (filtered["rating"] >= rating)
@@ -91,7 +96,8 @@ for i, row in filtered.head(top_n).iterrows():
             col2.metric("📅 Year", row['year'])
 
             st.caption(f"🎭 Genre: {row['genre']}")
-            st.caption(f"📺 Platform: {row['platform']}")
+            
+            st.caption(f"🌐 Language: {row['language']}")
 
 if len(filtered) == 0:
     st.warning("No movies found. Try adjusting filters.")

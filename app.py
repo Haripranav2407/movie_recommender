@@ -50,7 +50,7 @@ sort_option = st.sidebar.radio(
 
 top_n = st.sidebar.slider(
     "Number of movies to display",
-    4, 40, 20
+    4, 150, 20
 )
 
 filtered = movies.copy()

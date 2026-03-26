@@ -25,6 +25,10 @@ with st.sidebar.expander("Search & Filter", expanded=True):
         "Genre",
         ["All"] + sorted(movies["genre"].unique())
     )
+    platform = st.multiselect(
+        "Streaming Platform",
+        sorted(movies["platform"].unique())
+    )
 
     language = st.selectbox(
         "Language",
@@ -63,7 +67,9 @@ if search:
         filtered["title"].str.contains(search, case=False)
     ]
 
-
+if platform:
+    filtered = filtered[filtered["platform"].isin(platform)
+    ]
 if genre != "All":
     filtered = filtered[filtered["genre"] == genre]
 
@@ -98,6 +104,7 @@ for i, row in filtered.head(top_n).iterrows():
             st.caption(f"🎭 Genre: {row['genre']}")
             
             st.caption(f"🌐 Language: {row['language']}")
+            st.caption(f"📺 Platform: {row['platform']}")
 
 if len(filtered) == 0:
     st.warning("No movies found. Try adjusting filters.")

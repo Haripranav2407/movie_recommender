@@ -1,201 +1,152 @@
-title,year,genre,rating,platform
-The Shawshank Redemption,1994,Drama,9.3,Netflix
-The Godfather,1972,Crime,9.2,Amazon Prime
-The Dark Knight,2008,Action,9.0,Netflix
-Pulp Fiction,1994,Crime,8.9,Amazon Prime
-Forrest Gump,1994,Drama,8.8,Netflix
-Inception,2010,Sci-Fi,8.8,Netflix
-Fight Club,1999,Drama,8.8,Disney+ Hotstar
-The Matrix,1999,Sci-Fi,8.7,Netflix
-Goodfellas,1990,Crime,8.7,Amazon Prime
-Interstellar,2014,Sci-Fi,8.6,Amazon Prime
-Parasite,2019,Thriller,8.6,Netflix
-The Green Mile,1999,Drama,8.6,Amazon Prime
-Gladiator,2000,Action,8.5,Netflix
-Titanic,1997,Romance,7.9,Disney+ Hotstar
-Avatar,2009,Sci-Fi,7.8,Disney+ Hotstar
-Avengers Endgame,2019,Action,8.4,Disney+ Hotstar
-Avengers Infinity War,2018,Action,8.4,Disney+ Hotstar
-Iron Man,2008,Action,7.9,Disney+ Hotstar
-Doctor Strange,2016,Fantasy,7.5,Disney+ Hotstar
-Thor Ragnarok,2017,Action,7.9,Disney+ Hotstar
-Black Panther,2018,Action,7.3,Disney+ Hotstar
-Joker,2019,Drama,8.4,Amazon Prime
-The Batman,2022,Action,7.9,Amazon Prime
-Spider-Man No Way Home,2021,Action,8.2,Netflix
-Deadpool,2016,Comedy,8.0,Disney+ Hotstar
-Toy Story,1995,Animation,8.3,Disney+ Hotstar
-Finding Nemo,2003,Animation,8.1,Disney+ Hotstar
-Up,2009,Animation,8.2,Disney+ Hotstar
-Inside Out,2015,Animation,8.1,Disney+ Hotstar
-Coco,2017,Animation,8.4,Disney+ Hotstar
-Frozen,2013,Animation,7.4,Disney+ Hotstar
-The Lion King,1994,Animation,8.5,Disney+ Hotstar
-Jurassic Park,1993,Adventure,8.2,Netflix
-Jaws,1975,Thriller,8.1,Amazon Prime
-The Silence of the Lambs,1991,Thriller,8.6,Amazon Prime
-Se7en,1995,Thriller,8.6,Netflix
-Shutter Island,2010,Thriller,8.2,Netflix
-The Social Network,2010,Drama,7.7,Netflix
-Whiplash,2014,Drama,8.5,Amazon Prime
-La La Land,2016,Romance,8.0,Netflix
-The Notebook,2004,Romance,7.8,Amazon Prime
-A Beautiful Mind,2001,Drama,8.2,Amazon Prime
-The Imitation Game,2014,Biography,8.0,Netflix
-Bohemian Rhapsody,2018,Biography,7.9,Disney+ Hotstar
-The Wolf of Wall Street,2013,Comedy,8.2,Amazon Prime
-Django Unchained,2012,Western,8.4,Netflix
-The Hateful Eight,2015,Western,7.8,Netflix
-Mad Max Fury Road,2015,Action,8.1,Amazon Prime
-John Wick,2014,Action,7.4,Amazon Prime
-Top Gun Maverick,2022,Action,8.3,Amazon Prime
-3 Idiots,2009,Comedy,8.4,Netflix
-Dangal,2016,Drama,8.4,Disney+ Hotstar
-PK,2014,Comedy,8.1,Netflix
-Lagaan,2001,Drama,8.1,Netflix
-Gully Boy,2019,Drama,7.9,Amazon Prime
-Zindagi Na Milegi Dobara,2011,Drama,8.2,Netflix
-Barfi,2012,Romance,8.1,Netflix
-Andhadhun,2018,Thriller,8.2,Netflix
-Drishyam,2015,Thriller,8.2,Disney+ Hotstar
-Drishyam 2,2022,Thriller,8.4,Amazon Prime
-Bajrangi Bhaijaan,2015,Drama,8.1,Disney+ Hotstar
-Swades,2004,Drama,8.2,Netflix
-Chak De India,2007,Drama,8.1,Amazon Prime
-Queen,2013,Comedy,8.1,Netflix
-Article 15,2019,Crime,8.1,Netflix
-Pink,2016,Drama,8.1,Amazon Prime
-Talvar,2015,Crime,8.1,Netflix
-Haider,2014,Drama,8.0,Netflix
-Black,2005,Drama,8.2,Netflix
-Rockstar,2011,Drama,7.7,Amazon Prime
-Vikram,2022,Action,8.3,Disney+ Hotstar
-Kaithi,2019,Action,8.5,Disney+ Hotstar
-Master,2021,Action,7.4,Amazon Prime
-Leo,2023,Action,7.3,Netflix
-Jai Bhim,2021,Drama,8.7,Amazon Prime
-Soorarai Pottru,2020,Drama,8.7,Amazon Prime
-Asuran,2019,Drama,8.5,Amazon Prime
-Visaranai,2015,Crime,8.5,Netflix
-Super Deluxe,2019,Drama,8.3,Netflix
-96,2018,Romance,8.5,Amazon Prime
-Vada Chennai,2018,Crime,8.5,Netflix
-Aruvi,2017,Drama,8.4,Amazon Prime
-Theeran Adhigaram Ondru,2017,Action,8.2,Amazon Prime
-Ratsasan,2018,Thriller,8.3,Disney+ Hotstar
-Thani Oruvan,2015,Thriller,8.4,Disney+ Hotstar
-Maanagaram,2017,Thriller,8.1,Amazon Prime
-Pizza,2012,Thriller,8.0,Amazon Prime
-Soodhu Kavvum,2013,Comedy,8.3,Amazon Prime
-Nayakan,1987,Crime,8.7,Amazon Prime
-Anniyan,2005,Thriller,8.2,Amazon Prime
-Baahubali The Beginning,2015,Action,8.0,Netflix
-Baahubali The Conclusion,2017,Action,8.2,Netflix
-RRR,2022,Action,8.0,Netflix
-Eega,2012,Fantasy,7.7,Netflix
-Magadheera,2009,Action,7.7,Amazon Prime
-Arjun Reddy,2017,Drama,8.1,Amazon Prime
-Jersey,2019,Drama,8.5,Netflix
-KGF Chapter 1,2018,Action,8.2,Amazon Prime
-KGF Chapter 2,2022,Action,8.3,Amazon Prime
-Kantara,2022,Drama,8.3,Amazon Prime
-Charlie,2015,Drama,8.0,Netflix
-Premam,2015,Romance,8.3,Netflix
-Bangalore Days,2014,Drama,8.3,Disney+ Hotstar
-Ustad Hotel,2012,Drama,8.2,Disney+ Hotstar
-Take Off,2017,Drama,8.1,Disney+ Hotstar
-The Pursuit of Happyness,2006,Drama,8.0,Netflix
-The Revenant,2015,Adventure,8.0,Netflix
-The Departed,2006,Crime,8.5,Amazon Prime
-The Prestige,2006,Drama,8.5,Netflix
-Memento,2000,Thriller,8.4,Amazon Prime
-The Grand Budapest Hotel,2014,Comedy,8.1,Disney+ Hotstar
-Blade Runner 2049,2017,Sci-Fi,8.0,Netflix
-Her,2013,Romance,8.0,Amazon Prime
-Logan,2017,Action,8.1,Disney+ Hotstar
-The Irishman,2019,Crime,7.8,Netflix
-1917,2019,War,8.3,Amazon Prime
-Dune,2021,Sci-Fi,8.0,Netflix
-Oppenheimer,2023,Biography,8.4,Amazon Prime
-Tenet,2020,Sci-Fi,7.3,Amazon Prime
-Harry Potter and the Sorcerer's Stone,2001,Fantasy,7.6,Amazon Prime
-Harry Potter and the Chamber of Secrets,2002,Fantasy,7.4,Amazon Prime
-Harry Potter and the Prisoner of Azkaban,2004,Fantasy,7.9,Amazon Prime
-Harry Potter and the Goblet of Fire,2005,Fantasy,7.7,Amazon Prime
-Harry Potter and the Order of the Phoenix,2007,Fantasy,7.5,Amazon Prime
-Harry Potter and the Half Blood Prince,2009,Fantasy,7.6,Amazon Prime
-Harry Potter and the Deathly Hallows Part 1,2010,Fantasy,7.7,Amazon Prime
-Harry Potter and the Deathly Hallows Part 2,2011,Fantasy,8.1,Amazon Prime
-The Lord of the Rings The Fellowship of the Ring,2001,Fantasy,8.8,Amazon Prime
-The Lord of the Rings The Two Towers,2002,Fantasy,8.7,Amazon Prime
-The Lord of the Rings The Return of the King,2003,Fantasy,9.0,Amazon Prime
-Frozen 2,2019,Animation,6.8,Disney+ Hotstar
-Moana,2016,Animation,7.6,Disney+ Hotstar
-Zootopia,2016,Animation,8.0,Disney+ Hotstar
-Encanto,2021,Animation,7.2,Disney+ Hotstar
-Ratatouille,2007,Animation,8.1,Disney+ Hotstar
-Cars,2006,Animation,7.1,Disney+ Hotstar
-Mission Impossible Fallout,2018,Action,7.7,Amazon Prime
-Mission Impossible Rogue Nation,2015,Action,7.4,Amazon Prime
-Mission Impossible Ghost Protocol,2011,Action,7.4,Amazon Prime
-Skyfall,2012,Action,7.8,Amazon Prime
-Casino Royale,2006,Action,8.0,Amazon Prime
-Shrek,2001,Animation,7.9,Netflix
-Shrek 2,2004,Animation,7.4,Netflix
-Kung Fu Panda,2008,Animation,7.6,Netflix
-Kung Fu Panda 2,2011,Animation,7.2,Netflix
-Despicable Me,2010,Animation,7.6,Netflix
-The Hangover,2009,Comedy,7.7,Netflix
-Superbad,2007,Comedy,7.6,Netflix
-Step Brothers,2008,Comedy,6.9,Netflix
-We're the Millers,2013,Comedy,7.0,Netflix
-Get Out,2017,Horror,7.7,Netflix
-A Quiet Place,2018,Horror,7.5,Amazon Prime
-The Conjuring,2013,Horror,7.5,Amazon Prime
-Insidious,2010,Horror,6.8,Netflix
-Hereditary,2018,Horror,7.3,Amazon Prime
-Piku,2015,Drama,7.6,Amazon Prime
-Hindi Medium,2017,Comedy,7.8,Disney+ Hotstar
-Badhaai Ho,2018,Comedy,7.9,Disney+ Hotstar
-Stree,2018,Horror,7.5,Netflix
-Bhediya,2022,Horror,7.1,Amazon Prime
-Tumbbad,2018,Horror,8.2,Amazon Prime
-Kahaani,2012,Thriller,8.1,Netflix
-Special 26,2013,Crime,8.0,Netflix
-Baby,2015,Action,7.9,Amazon Prime
-Airlift,2016,Drama,7.9,Amazon Prime
-Kesari,2019,War,7.4,Amazon Prime
-Raazi,2018,Thriller,7.8,Amazon Prime
-Uri The Surgical Strike,2019,Action,8.2,ZEE5
-Shershaah,2021,War,8.4,Amazon Prime
-Sardar Udham,2021,Biography,8.5,Amazon Prime
-Mimi,2021,Drama,7.9,Netflix
-Ludo,2020,Comedy,7.6,Netflix
-Chhichhore,2019,Drama,8.3,Disney+ Hotstar
-Dil Chahta Hai,2001,Drama,8.1,Netflix
-Kal Ho Naa Ho,2003,Romance,8.0,Netflix
-Kabhi Khushi Kabhie Gham,2001,Drama,7.4,Netflix
-My Name Is Khan,2010,Drama,8.0,Amazon Prime
-Don,2006,Action,7.2,Netflix
-Don 2,2011,Action,7.1,Netflix
-Ghajini,2008,Action,7.3,Amazon Prime
-Ghilli,2004,Action,8.1,Sun NXT
-Enthiran,2010,Sci-Fi,7.1,Sun NXT
-Sivaji The Boss,2007,Drama,7.5,Sun NXT
-Anbe Sivam,2003,Drama,8.7,Sun NXT
-Vaaranam Aayiram,2008,Drama,8.2,Amazon Prime
-OK Kanmani,2015,Romance,7.4,Disney+ Hotstar
-Mersal,2017,Action,7.6,Netflix
-Bigil,2019,Action,6.7,Amazon Prime
-Theri,2016,Action,7.3,Sun NXT
-24,2016,Sci-Fi,7.9,Disney+ Hotstar
-I,2015,Romance,7.3,Amazon Prime
-Remo,2016,Comedy,6.5,Sun NXT
-Doctor,2021,Comedy,7.4,Netflix
-Beast,2022,Action,5.2,Netflix
-Jigarthanda,2014,Crime,8.2,Amazon Prime
-Karnan,2021,Drama,8.0,Amazon Prime
-Sarpatta Parambarai,2021,Drama,8.5,Amazon Prime
-Love Today,2022,Comedy,8.0,Netflix
-Mark Antony,2023,Sci-Fi,7.2,Amazon Prime
-Maaveeran,2023,Action,7.4,Amazon Prime
+title,year,genre,rating,platform,language
+The Shawshank Redemption,1994,Drama,9.3,Netflix,English
+The Godfather,1972,Crime,9.2,Amazon Prime,English
+The Dark Knight,2008,Action,9.0,Netflix,English
+Pulp Fiction,1994,Crime,8.9,Amazon Prime,English
+Forrest Gump,1994,Drama,8.8,Netflix,English
+Inception,2010,Sci-Fi,8.8,Netflix,English
+Fight Club,1999,Drama,8.8,Disney+ Hotstar,English
+The Matrix,1999,Sci-Fi,8.7,Netflix,English
+Goodfellas,1990,Crime,8.7,Amazon Prime,English
+Interstellar,2014,Sci-Fi,8.6,Amazon Prime,English
+Parasite,2019,Thriller,8.6,Netflix,Korean
+The Green Mile,1999,Drama,8.6,Amazon Prime,English
+Gladiator,2000,Action,8.5,Netflix,English
+Titanic,1997,Romance,7.9,Disney+ Hotstar,English
+Avatar,2009,Sci-Fi,7.8,Disney+ Hotstar,English
+Avengers Endgame,2019,Action,8.4,Disney+ Hotstar,English
+Avengers Infinity War,2018,Action,8.4,Disney+ Hotstar,English
+Iron Man,2008,Action,7.9,Disney+ Hotstar,English
+Doctor Strange,2016,Fantasy,7.5,Disney+ Hotstar,English
+Thor Ragnarok,2017,Action,7.9,Disney+ Hotstar,English
+Black Panther,2018,Action,7.3,Disney+ Hotstar,English
+Joker,2019,Drama,8.4,Amazon Prime,English
+The Batman,2022,Action,7.9,Amazon Prime,English
+Spider-Man No Way Home,2021,Action,8.2,Netflix,English
+Deadpool,2016,Comedy,8.0,Disney+ Hotstar,English
+Toy Story,1995,Animation,8.3,Disney+ Hotstar,English
+Finding Nemo,2003,Animation,8.1,Disney+ Hotstar,English
+Up,2009,Animation,8.2,Disney+ Hotstar,English
+Inside Out,2015,Animation,8.1,Disney+ Hotstar,English
+Coco,2017,Animation,8.4,Disney+ Hotstar,English
+Frozen,2013,Animation,7.4,Disney+ Hotstar,English
+The Lion King,1994,Animation,8.5,Disney+ Hotstar,English
+Jurassic Park,1993,Adventure,8.2,Netflix,English
+Jaws,1975,Thriller,8.1,Amazon Prime,English
+The Silence of the Lambs,1991,Thriller,8.6,Amazon Prime,English
+Se7en,1995,Thriller,8.6,Netflix,English
+Shutter Island,2010,Thriller,8.2,Netflix,English
+The Social Network,2010,Drama,7.7,Netflix,English
+Whiplash,2014,Drama,8.5,Amazon Prime,English
+La La Land,2016,Romance,8.0,Netflix,English
+The Notebook,2004,Romance,7.8,Amazon Prime,English
+A Beautiful Mind,2001,Drama,8.2,Amazon Prime,English
+The Imitation Game,2014,Biography,8.0,Netflix,English
+Bohemian Rhapsody,2018,Biography,7.9,Disney+ Hotstar,English
+The Wolf of Wall Street,2013,Comedy,8.2,Amazon Prime,English
+Django Unchained,2012,Western,8.4,Netflix,English
+The Hateful Eight,2015,Western,7.8,Netflix,English
+Mad Max Fury Road,2015,Action,8.1,Amazon Prime,English
+John Wick,2014,Action,7.4,Amazon Prime,English
+Top Gun Maverick,2022,Action,8.3,Amazon Prime,English
+3 Idiots,2009,Comedy,8.4,Netflix,Hindi
+Dangal,2016,Drama,8.4,Disney+ Hotstar,Hindi
+PK,2014,Comedy,8.1,Netflix,Hindi
+Lagaan,2001,Drama,8.1,Netflix,Hindi
+Gully Boy,2019,Drama,7.9,Amazon Prime,Hindi
+Zindagi Na Milegi Dobara,2011,Drama,8.2,Netflix,Hindi
+Barfi,2012,Romance,8.1,Netflix,Hindi
+Andhadhun,2018,Thriller,8.2,Netflix,Hindi
+Drishyam,2015,Thriller,8.2,Disney+ Hotstar,Hindi
+Drishyam 2,2022,Thriller,8.4,Amazon Prime,Hindi
+Bajrangi Bhaijaan,2015,Drama,8.1,Disney+ Hotstar,Hindi
+Swades,2004,Drama,8.2,Netflix,Hindi
+Chak De India,2007,Drama,8.1,Amazon Prime,Hindi
+Queen,2013,Comedy,8.1,Netflix,Hindi
+Article 15,2019,Crime,8.1,Netflix,Hindi
+Pink,2016,Drama,8.1,Amazon Prime,Hindi
+Talvar,2015,Crime,8.1,Netflix,Hindi
+Haider,2014,Drama,8.0,Netflix,Hindi
+Black,2005,Drama,8.2,Netflix,Hindi
+Rockstar,2011,Drama,7.7,Amazon Prime,Hindi
+Vikram,2022,Action,8.3,Disney+ Hotstar,Tamil
+Kaithi,2019,Action,8.5,Disney+ Hotstar,Tamil
+Master,2021,Action,7.4,Amazon Prime,Tamil
+Leo,2023,Action,7.3,Netflix,Tamil
+Jai Bhim,2021,Drama,8.7,Amazon Prime,Tamil
+Soorarai Pottru,2020,Drama,8.7,Amazon Prime,Tamil
+Asuran,2019,Drama,8.5,Amazon Prime,Tamil
+Visaranai,2015,Crime,8.5,Netflix,Tamil
+Super Deluxe,2019,Drama,8.3,Netflix,Tamil
+96,2018,Romance,8.5,Amazon Prime,Tamil
+Aruvi,2017,Drama,8.4,Amazon Prime,Tamil
+Theeran Adhigaram Ondru,2017,Action,8.2,Amazon Prime,Tamil
+Ratsasan,2018,Thriller,8.3,Disney+ Hotstar,Tamil
+Thani Oruvan,2015,Thriller,8.4,Disney+ Hotstar,Tamil
+Maanagaram,2017,Thriller,8.1,Amazon Prime,Tamil
+Pizza,2012,Thriller,8.0,Amazon Prime,Tamil
+Soodhu Kavvum,2013,Comedy,8.3,Amazon Prime,Tamil
+Nayakan,1987,Crime,8.7,Amazon Prime,Tamil
+Anniyan,2005,Thriller,8.2,Amazon Prime,Tamil
+RRR,2022,Action,8.0,Netflix,Telugu
+Eega,2012,Fantasy,7.7,Netflix,Telugu
+Magadheera,2009,Action,7.7,Amazon Prime,Telugu
+Arjun Reddy,2017,Drama,8.1,Amazon Prime,Telugu
+Jersey,2019,Drama,8.5,Netflix,Telugu
+KGF Chapter 1,2018,Action,8.2,Amazon Prime,Kannada
+KGF Chapter 2,2022,Action,8.3,Amazon Prime,Kannada
+Kantara,2022,Drama,8.3,Amazon Prime,Kannada
+Premam,2015,Romance,8.3,Netflix,Malayalam
+Bangalore Days,2014,Drama,8.3,Disney+ Hotstar,Malayalam
+Ustad Hotel,2012,Drama,8.2,Disney+ Hotstar,Malayalam
+Take Off,2017,Drama,8.1,Disney+ Hotstar,Malayalam
+Charlie,2015,Drama,8.0,Netflix,Malayalam
+The Truman Show,1998,Drama,8.2,Netflix,English
+Catch Me If You Can,2002,Crime,8.1,Netflix,English
+Gone Girl,2014,Thriller,8.1,Amazon Prime,English
+Prisoners,2013,Thriller,8.1,Netflix,English
+Nightcrawler,2014,Crime,7.8,Amazon Prime,English
+Drive,2011,Crime,7.8,Netflix,English
+American Beauty,1999,Drama,8.3,Amazon Prime,English
+The Usual Suspects,1995,Crime,8.5,Amazon Prime,English
+Requiem for a Dream,2000,Drama,8.3,Netflix,English
+No Country for Old Men,2007,Crime,8.1,Amazon Prime,English
+There Will Be Blood,2007,Drama,8.2,Netflix,English
+Donnie Darko,2001,Sci-Fi,8.0,Netflix,English
+Children of Men,2006,Sci-Fi,7.9,Amazon Prime,English
+District 9,2009,Sci-Fi,7.9,Netflix,English
+Edge of Tomorrow,2014,Sci-Fi,7.9,Amazon Prime,English
+Looper,2012,Sci-Fi,7.4,Netflix,English
+Minority Report,2002,Sci-Fi,7.6,Amazon Prime,English
+Die Hard,1988,Action,8.2,Amazon Prime,English
+The Terminator,1984,Sci-Fi,8.0,Netflix,English
+Terminator 2 Judgment Day,1991,Sci-Fi,8.6,Amazon Prime,English
+Rocky,1976,Drama,8.1,Amazon Prime,English
+Creed,2015,Drama,7.6,Netflix,English
+Paddington 2,2017,Comedy,7.8,Amazon Prime,English
+How to Train Your Dragon,2010,Animation,8.1,Netflix,English
+Tangled,2010,Animation,7.7,Disney+ Hotstar,English
+Mulan,1998,Animation,7.7,Disney+ Hotstar,English
+The Big Short,2015,Biography,7.8,Netflix,English
+Ford v Ferrari,2019,Drama,8.1,Disney+ Hotstar,English
+Spotlight,2015,Drama,8.1,Amazon Prime,English
+Moonlight,2016,Drama,7.4,Netflix,English
+Room,2015,Drama,8.1,Netflix,English
+The King's Speech,2010,Drama,8.0,Netflix,English
+Slumdog Millionaire,2008,Drama,8.0,Netflix,English
+Life of Pi,2012,Adventure,7.9,Disney+ Hotstar,English
+The Florida Project,2017,Drama,7.6,Amazon Prime,English
+The Shape of Water,2017,Fantasy,7.3,Disney+ Hotstar,English
+Taare Zameen Par,2007,Drama,8.3,Netflix,Hindi
+Munna Bhai MBBS,2003,Comedy,8.1,Netflix,Hindi
+Lage Raho Munna Bhai,2006,Comedy,8.0,Netflix,Hindi
+Dilwale Dulhania Le Jayenge,1995,Romance,8.0,Amazon Prime,Hindi
+Kabir Singh,2019,Romance,7.0,Netflix,Hindi
+Ghajini,2008,Action,7.3,Amazon Prime,Hindi
+Holiday A Soldier Is Never Off Duty,2014,Action,7.2,Netflix,Hindi
+Thuppakki,2012,Action,8.1,Sun NXT,Tamil
+Kaththi,2014,Action,8.0,Sun NXT,Tamil
+Darbar,2020,Action,6.5,Netflix,Tamil
+Vedalam,2015,Action,6.2,Sun NXT,Tamil
+Sarkar,2018,Action,6.9,Netflix,Tamil
+
